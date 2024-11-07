@@ -29,10 +29,14 @@ This script transforms your Termux terminal into a VPS-like environment, complet
    ```bash
   git clone https://github.com/Shahilali5/VPS-ON-TERMUX-IN-FREE
    ```
+
+
 4. **Install Command**
    ```bash
 pkg install figlet toilet
    ```
+
+
 3. **Make the Script Executable**:
    ```bash
    chmod +x vps_look.sh
