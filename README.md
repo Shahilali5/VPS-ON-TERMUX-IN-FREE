@@ -9,7 +9,7 @@
 
 ## Description
 
-This script transforms your Termux terminal into a VPS-like environment, complete with support for Node.js, PM2, and essential libraries for building Telegram bots. It’s a great tool for users who want to simulate a VPS on their mobile devices and quickly set up a development environment for Node.js and Telegram bot projects.
+This script transforms your Termux terminal into a VPS-like environment, complete with support for Node.js, PM2, and essential libraries for building Telegram bots. Itâ€™s a great tool for users who want to simulate a VPS on their mobile devices and quickly set up a development environment for Node.js and Telegram bot projects.
 
 ## Features
 
@@ -24,22 +24,21 @@ This script transforms your Termux terminal into a VPS-like environment, complet
    ```bash
    pkg update && pkg upgrade -y
    ```
-
+   
 2. **Clone the Script**:
+   Save the script to your Termux environment or download it directly if hosted on a platform.
 
+3. **Run Command**
+    ```bash
+    pkg install figlet toilet
+    ```
 
-4. **Install Command**
-   ```bash
-pkg install figlet toilet
-   ```
-
-
-3. **Make the Script Executable**:
+5. **Make the Script Executable**:
    ```bash
    chmod +x vps_look.sh
    ```
 
-4. **Run the Script**:
+6. **Run the Script**:
    ```bash
    ./vps_look.sh
    ```
