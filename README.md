@@ -26,9 +26,6 @@ This script transforms your Termux terminal into a VPS-like environment, complet
    ```
 
 2. **Clone the Script**:
-   ```bash
-  git clone https://github.com/Shahilali5/VPS-ON-TERMUX-IN-FREE
-   ```
 
 
 4. **Install Command**
